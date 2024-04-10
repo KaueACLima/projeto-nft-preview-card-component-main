@@ -4,11 +4,11 @@ Esta é um desafio imposto pelo Frontend Mentor. Os desafios ajudam você a melh
 
 ## Índice
 
-- [Visão geral](#overview)
+- [Visão geral](#Visão-geral)
   - [O desafio](#O-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Construído com](#built-with)
+  - [Construído com](#Construido-com)
 - [Autor](#author)
 
 ## Visão geral
@@ -22,12 +22,12 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![image](https://github.com/KaueACLima/projeto-x-men/assets/56000639/2539839a-ba22-4123-b0f5-eb77f72e4e1b)
+![nft-preview-card-component-main](https://github.com/KaueACLima/projeto-nft-preview-card-component-main/assets/56000639/7de3afcd-05e3-4492-9e1a-85c09fa35a55)
 
 ### Links
 
 - URL da solução: (https://github.com/KaueACLima/projeto-nft-preview-card-component-main)
-- URL do site ativo: (https://kaueaclima.github.io/projeto-x-men/)
+- URL do site ativo: (https://kaueaclima.github.io/projeto-nft-preview-card-component-main/)
 
 
 ### Construído com
